@@ -1,0 +1,14 @@
+CGPA: 2.90909
+Course List:
+Course Name: Data Structures and Algorithms
+Grade: B
+Credit Hours: 4
+---------------------------
+Course Name: Computer Networks
+Grade: C
+Credit Hours: 4
+---------------------------
+Course Name: Operating Systems
+Grade: A
+Credit Hours: 3
+---------------------------
